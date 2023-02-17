@@ -1,0 +1,124 @@
+{
+  "branch_id": "0dbf43a0-a168-11e9-a893-49ac915e00a79",
+  "agent_id": "a43a214b-e02a-11e9-b176-0217ca23d448",
+  "origin_phone_number": "01032025574",
+  "call_start_time": 1604566951543,
+  "call_confirmed_time": 0,
+  "call_end_time": 1604566980397,
+  "call_rec_wav": "/home/pi/work/aiagent/record/info_622d1015-e54e-4a82-aca2-6328c41fe52c/call_rec.wav",
+  "destination_phone_number": "",
+  "destination_phone_number2": "",
+  "call_duration": 222.0,
+  "consent_timestamp": "",
+  "call_result_code": "130",
+  "call_result_notes": {},
+  "customer_call_result": "O1012",
+  "is_transfer": "N",
+  "outbound_id": "2",
+  "CUID": "4929f-g9a0d20f-test-102049-6dadg",
+  "dialogues": [
+    {
+      "intermediate_transcript": [
+        {
+          "transcript": "\uc5ec\ubcf4",
+          "time": 1604566963754
+        },
+        {
+          "transcript": "\uc5ec\ubcf4\uc138\uc694",
+          "time": 1604566963763
+        },
+        {
+          "transcript": "\uc5ec\ubcf4\uc138\uc694",
+          "time": 1604566964197
+        },
+        {
+          "transcript": "",
+          "time": 1604566964555
+        }
+      ],
+      "staffer_id": "",
+      "fulfillment": "\uc2e4\ub840\uc9c0\ub9cc, *** \uace0\uac1d\ub2d8 \ub9de\uc73c\uc2ed\ub2c8\uae4c? ",
+      "job_name": "",
+      "state_name": "\ubcf8\uc778\uc5ec\ubd80_\ud655\uc778",
+      "duration": 1750.0,
+      "fulfillment_text": "",
+      "call_objective": "",
+      "transcript": "\uc5ec\ubcf4\uc138\uc694",
+      "department_id": "",
+      "stt_confidence": "0.9236595630645752",
+      "end_time": 1604566963293.0,
+      "entity": {
+        "hello": "\uc5ec\ubcf4\uc138\uc694"
+      },
+      "has_sensitive_information": false,
+      "voice_index": 1,
+      "start_time": 1604566961543.0,
+      "intent": "Default Welcome Intent"
+    },
+    {
+      "intermediate_transcript": [
+        {
+          "transcript": "\uac70\uae30",
+          "time": 1604566970458
+        },
+        {
+          "transcript": "\uac70\uae30 \uc704\uc5d0",
+          "time": 1604566970720
+        },
+        {
+          "transcript": "\uac70\uae30 \uc704\uce58",
+          "time": 1604566970733
+        },
+        {
+          "transcript": "\uac70\uae30 \uc704\uce58\uac00",
+          "time": 1604566970997
+        },
+        {
+          "transcript": "\uac70\uae30 \uc704\uce58\uac00 \uc5b4\ub5bb\uac8c",
+          "time": 1604566971208
+        },
+        {
+          "transcript": "\uac70\uae30 \uc704\uce58\uac00 \uc5b4\ub5bb\uac8c \ub3fc",
+          "time": 1604566971440
+        },
+        {
+          "transcript": "\uac70\uae30 \uc704\uce58\uac00 \uc5b4\ub5bb\uac8c \ub3fc\uc694",
+          "time": 1604566971708
+        },
+        {
+          "transcript": "\uac70\uae30 \uc704\uce58\uac00 \uc5b4\ub5bb\uac8c \ub3fc\uc694",
+          "time": 1604566971717
+        },
+        {
+          "transcript": "\uac70\uae30 \uc704\uce58\uac00 \uc5b4\ub5bb\uac8c \ub3fc\uc694",
+          "time": 1604566971953
+        },
+        {
+          "transcript": "",
+          "time": 1604566973082
+        }
+      ],
+      "staffer_id": "",
+      "fulfillment": "\uace0\uac1d\ub2d8, \uadf8 \ubd80\ubd84\uc740 \uace0\uac1d\uc13c\ud130\uc5d0 \ubb38\uc758\ud558\uc2e4 \uc218 \uc788\ub3c4\ub85d, \uc9c0\uae08 \ubc14\ub85c \uc5f0\uacb0\ud574 \ub4dc\ub9ac\uaca0\uc2b5\ub2c8\ub2e4.",
+      "job_name": "",
+      "state_name": "\ubcf8\uc778\uc5ec\ubd80_\ud655\uc778",
+      "duration": 3000.0,
+      "fulfillment_text": "",
+      "call_objective": "",
+      "transcript": "\uac70\uae30 \uc704\uce58\uac00 \uc5b4\ub5bb\uac8c \ub3fc\uc694",
+      "department_id": "",
+      "stt_confidence": "0.9236595034599304",
+      "end_time": 1604566971043.0,
+      "entity": {
+        "where": "",
+        "location": [
+          "\uc704\uce58"
+        ]
+      },
+      "has_sensitive_information": false,
+      "voice_index": 2,
+      "start_time": 1604566968043.0,
+      "intent": "ask-location"
+    }
+  ]
+}

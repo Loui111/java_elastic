@@ -1,0 +1,39 @@
+spring:
+#  config.activate.on-profile: default
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/elastic?serverTimezone=Asia/Seoul&useUnicode=yes&characterEncoding=UTF-8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: password
+    hikari:
+      leak-detection-threshold: 1000
+
+logging:
+  level:
+    root: "info"
+    org.springframework.web: "debug"
+    org.hibernate: "error"
+
+apiVersion: "/api/v0"
+
+#  flyway:
+#    enabled: true
+#    baseline-on-migrate: true
+#    baseline-version: 0
+#    url: jdbc:mysql://localhost:3306/in2l_dev?useSSL=false&serverTimezone=UTC&characterEncoding=utf8
+#    user: in2l_developer
+#    password: yP1#^Y#6f3r6B1g
+
+#  CREATE DATABASE in2l_dev;
+#  CREATE USER 'in2l_developer'@'localhost' IDENTIFIED BY 'yP1#^Y#6f3r6B1g';
+#  GRANT ALL PRIVILEGES ON in2l_dev.* TO 'in2l_developer'@'localhost';
+#  FLUSH PRIVILEGES;
+
+

@@ -1,0 +1,28 @@
+2022-12-28 00:08:34  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m23s317ms).
+2022-12-28 01:20:04  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h11m30s164ms).
+2022-12-28 02:44:21  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h24m16s904ms).
+2022-12-28 03:37:15  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52m53s599ms).
+2022-12-28 04:40:38  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h3m22s979ms).
+2022-12-28 05:45:45  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m7s295ms).
+2022-12-28 06:49:40  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h3m54s325ms).
+2022-12-28 08:12:22  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h22m42s634ms).
+2022-12-28 08:51:10  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=38m48s277ms).
+2022-12-28 09:09:03  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m52s42ms).
+2022-12-28 09:23:47  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m44s711ms).
+2022-12-28 09:45:44  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m56s83ms).
+2022-12-28 10:24:28  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m14s269ms).
+2022-12-28 10:34:31  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m3s262ms).
+2022-12-28 11:42:27  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h7m25s825ms).
+2022-12-28 12:28:51  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46m24s249ms).
+2022-12-28 13:22:55  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m3s266ms).
+2022-12-28 13:41:24  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m29s830ms).
+2022-12-28 13:42:34  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m9s101ms).
+2022-12-28 14:08:04  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m707ms).
+2022-12-28 14:10:35  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m611ms).
+2022-12-28 14:34:59  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m54s116ms).
+2022-12-28 17:26:30  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Retrograde clock change detected (housekeeper delta=27s903ms), soft-evicting connections from pool.
+2022-12-28 18:57:00  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Retrograde clock change detected (housekeeper delta=27s737ms), soft-evicting connections from pool.
+2022-12-28 21:56:36  WARN [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m31s592ms).
+2022-12-28 22:20:51  INFO [org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-12-28 22:20:51  INFO [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+2022-12-28 22:20:51  INFO [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.

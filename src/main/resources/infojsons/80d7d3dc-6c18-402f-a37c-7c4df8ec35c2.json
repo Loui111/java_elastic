@@ -1,0 +1,110 @@
+{
+  "origin_phone_number": "01088985533",
+  "call_start_time": "1661478101085",
+  "call_confirmed_time": "1661478124167",
+  "call_end_time": "1661478144883",
+  "call_rec_wav": "/home/pi/work/aiagent/record/info_80d7d3dc-6c18-402f-a37c-7c4df8ec35c2/call_rec.wav",
+  "destination_phone_number": "",
+  "destination_phone_number2": "",
+  "call_duration": "43798",
+  "number": "01088985533",
+  "prefix": "",
+  "outbound_id": "b4816485-8a2a-4b1b-9c46-20ea1a532400",
+  "area_code": "053",
+  "customer_id": "30010851987",
+  "customer_data": {
+    "age": "54",
+    "ucid": "00019E00000586253604",
+    "gender": "2",
+    "post_code": "42000",
+    "serial_no": "1",
+    "campaign_id": "T221230237_432208001",
+    "customer_id": "30010851987",
+    "home_number": "0537428750",
+    "work_number": "",
+    "phone_number": "01088985533",
+    "customer_name": "\ud55c\uc815\uc219"
+  },
+  "raw_data": {
+    "is_testing": false,
+    "campaign_id": "T221230237_432208001",
+    "nts_customer_no": "30010851987"
+  },
+  "CID": "01088985533",
+  "CUID": "80d7d3dc-6c18-402f-a37c-7c4df8ec35c2",
+  "agent_id": "df1962e2-3476-43de-a320-1ebfca0df0a4",
+  "extension_number": "5019",
+  "config_sid": "sid_accident_insurance",
+  "config_tts": "posicube",
+  "fulfillment_volume": "",
+  "fulfillment_tempo": "",
+  "branch_id": "cc626dd0-f3fc-4a1d-a9ac-f64d2b860f07",
+  "consent_timestamp": "",
+  "call_result_code": "002",
+  "call_result_notes": {},
+  "customer_call_result": "004011",
+  "is_transfer": "N",
+  "dialogues": [
+    {
+      "voice_index": 1,
+      "start_time": 1661478101085,
+      "end_time": 1661478101085,
+      "duration": 0,
+      "transcript": "",
+      "intent": "",
+      "entity": "",
+      "state_name": "",
+      "has_sensitive_information": false,
+      "fulfillment": "\uc5ec\ubcf4\uc138\uc694? ",
+      "fulfillment_except_privacy": "\uc5ec\ubcf4\uc138\uc694? ",
+      "fulfillment_text": "",
+      "department_id": "",
+      "staff_id": "",
+      "job_name": "",
+      "call_objective": "",
+      "stt_confidence": "0.0",
+      "intermediate_transcript": [],
+      "fulfillment_volume": "",
+      "fulfillment_tempo": "",
+      "fulfillment_pitch": "",
+      "barge_in_enable": false
+    },
+    {
+      "voice_index": 2,
+      "start_time": 1661478101585,
+      "end_time": 1661478107585,
+      "duration": 6000,
+      "transcript": "\uc880",
+      "intent": "NTF_YES",
+      "entity": null,
+      "state_name": "A2,A3,TA,A4",
+      "has_sensitive_information": false,
+      "fulfillment": "\uc548\ub155\ud558\uc138\uc694? <break time=\"300ms\"/>\uc800\ub294 \uc0bc\uc131\uce74\ub4dc \uc5d0\uc774\uc2a4\ud654\uc7ac \uc5d0\uc774\uc544\uc774 \uc0c1\ub2f4\uc0ac\uc785\ub2c8\ub2e4. <break time=\"500ms\"/> \uc0bc\uc131\uce74\ub4dc \ub9c8\ucf00\ud305 \uc815\ubcf4\ud65c\uc6a9\uc5d0 \ub3d9\uc758\ud574\uc8fc\uc2e0 \uace0\uac1d\ub2d8\uaed8 \uc885\ud569 \uc0c1\ud574\ubcf4\ud5d8\uacfc \uc0ac\uc740\ud488 \uc774\ubca4\ud2b8\uac00 \uc788\uc5b4 \uc18c\uac1c\ud574\ub4dc\ub9ac\ub824\uace0 \ud558\ub294\ub370, \ud55c\uc815\uc219 \uace0\uac1d\ub2d8 \uc7a0\uc2dc \ud1b5\ud654 \uad1c\ucc2e\uc73c\uc2e0\uac00\uc694?",
+      "fulfillment_except_privacy": "\uc548\ub155\ud558\uc138\uc694? <break time=\"300ms\"/>\uc800\ub294 \uc0bc\uc131\uce74\ub4dc \uc5d0\uc774\uc2a4\ud654\uc7ac \uc5d0\uc774\uc544\uc774 \uc0c1\ub2f4\uc0ac\uc785\ub2c8\ub2e4. <break time=\"500ms\"/> \uc0bc\uc131\uce74\ub4dc \ub9c8\ucf00\ud305 \uc815\ubcf4\ud65c\uc6a9\uc5d0 \ub3d9\uc758\ud574\uc8fc\uc2e0 \uace0\uac1d\ub2d8\uaed8 \uc885\ud569 \uc0c1\ud574\ubcf4\ud5d8\uacfc \uc0ac\uc740\ud488 \uc774\ubca4\ud2b8\uac00 \uc788\uc5b4 \uc18c\uac1c\ud574\ub4dc\ub9ac\ub824\uace0 \ud558\ub294\ub370, *** \uace0\uac1d\ub2d8 \uc7a0\uc2dc \ud1b5\ud654 \uad1c\ucc2e\uc73c\uc2e0\uac00\uc694?",
+      "fulfillment_text": "",
+      "department_id": "",
+      "staff_id": "",
+      "job_name": "",
+      "call_objective": "",
+      "stt_confidence": "1.0",
+      "intermediate_transcript": [
+        {
+          "time": 1661478130998,
+          "transcript": "\ub124"
+        },
+        {
+          "time": 1661478131703,
+          "transcript": "\uc880"
+        },
+        {
+          "time": 1661478131719,
+          "transcript": "\uc880"
+        }
+      ],
+      "fulfillment_volume": "",
+      "fulfillment_tempo": "",
+      "fulfillment_pitch": "",
+      "barge_in_enable": false
+    }
+  ]
+}

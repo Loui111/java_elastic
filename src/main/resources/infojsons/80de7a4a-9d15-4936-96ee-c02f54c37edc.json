@@ -1,0 +1,134 @@
+{
+  "origin_phone_number": "01082421976",
+  "call_start_time": "1661846034048",
+  "call_confirmed_time": "1661846048120",
+  "call_end_time": "1661846069271",
+  "call_rec_wav": "/home/pi/work/aiagent/record/info_80de7a4a-9d15-4936-96ee-c02f54c37edc/call_rec.wav",
+  "destination_phone_number": "0000",
+  "destination_phone_number2": "9906",
+  "call_duration": "35223",
+  "number": "01082421976",
+  "prefix": "",
+  "outbound_id": "03c677e8-e6a7-48dd-be15-8f9c918680e6",
+  "area_code": "031",
+  "customer_id": "30049927310",
+  "customer_data": {
+    "age": "64",
+    "ucid": "00019E00000586368913",
+    "gender": "2",
+    "post_code": "15444",
+    "serial_no": "2",
+    "campaign_id": "T221230233_432208001",
+    "customer_id": "30049927310",
+    "home_number": "",
+    "work_number": "",
+    "phone_number": "01082421976",
+    "customer_name": "\ubc15\uc21c\ub355"
+  },
+  "raw_data": {
+    "is_testing": false,
+    "campaign_id": "T221230233_432208001",
+    "nts_customer_no": "30049927310"
+  },
+  "CID": "01082421976",
+  "CUID": "80de7a4a-9d15-4936-96ee-c02f54c37edc",
+  "agent_id": "0e669e84-8978-4d21-bcfb-5c66c7c68fb2",
+  "extension_number": "5003",
+  "config_sid": "sid_accident_insurance",
+  "config_tts": "posicube",
+  "fulfillment_volume": "",
+  "fulfillment_tempo": "",
+  "branch_id": "cc626dd0-f3fc-4a1d-a9ac-f64d2b860f07",
+  "consent_timestamp": "",
+  "call_result_code": "230",
+  "call_result_notes": {},
+  "customer_call_result": "00203",
+  "is_transfer": "N",
+  "dialogues": [
+    {
+      "voice_index": 1,
+      "start_time": 1661846034048,
+      "end_time": 1661846034048,
+      "duration": 0,
+      "transcript": "",
+      "intent": "",
+      "entity": "",
+      "state_name": "",
+      "has_sensitive_information": false,
+      "fulfillment": "\uc5ec\ubcf4\uc138\uc694? ",
+      "fulfillment_except_privacy": "\uc5ec\ubcf4\uc138\uc694? ",
+      "fulfillment_text": "",
+      "department_id": "",
+      "staff_id": "",
+      "job_name": "",
+      "call_objective": "",
+      "stt_confidence": "0.0",
+      "intermediate_transcript": [],
+      "fulfillment_volume": "",
+      "fulfillment_tempo": "",
+      "fulfillment_pitch": "",
+      "barge_in_enable": false
+    },
+    {
+      "voice_index": 2,
+      "start_time": 1661846034548,
+      "end_time": 1661846040548,
+      "duration": 6000,
+      "transcript": "\uba54\ub69c\uae30 \ub179\uc74c\uc740 \uc77c \ubc24 \uc5f0\ub77d \ubc1b\uc73c \uc2e4 \uc804\ud654\ubc88\ud638\ub97c \ub0a8\uae30\uc2dc\ub824\uba74 \uc774 \ubc88\ud638 \ub20c\ub7ec \uc8fc\uc2ed\uc2dc\uc624",
+      "intent": "NTF_ARS",
+      "entity": null,
+      "state_name": "A102,F1",
+      "has_sensitive_information": false,
+      "fulfillment": "\uc790\ub3d9\uc751\ub2f5\uc774 \uac10\uc9c0\ub418\uc5b4 \ud1b5\ud654\ub97c \uc885\ub8cc\ud569\ub2c8\ub2e4. <break time=\"500ms\"/>\uc18c\uc911\ud55c \uc2dc\uac04 \uac10\uc0ac\ub4dc\ub9ac\uace0, \uc624\ub298\ub3c4 \uc990\uac81\uace0 \ud589\ubcf5\ud55c \ud558\ub8e8 \ub418\uc138\uc694. <break time=\"500ms\"/>\uc800\ub294 \uc5d0\uc774\uc2a4 \uc190\ud574\ubcf4\ud5d8, \uc0bc\uc131\uce74\ub4dc \uc5d0\uc774\uc544\uc774 \uc0c1\ub2f4\uc0ac\uc600\uc2b5\ub2c8\ub2e4.",
+      "fulfillment_except_privacy": "\uc790\ub3d9\uc751\ub2f5\uc774 \uac10\uc9c0\ub418\uc5b4 \ud1b5\ud654\ub97c \uc885\ub8cc\ud569\ub2c8\ub2e4. <break time=\"500ms\"/>\uc18c\uc911\ud55c \uc2dc\uac04 \uac10\uc0ac\ub4dc\ub9ac\uace0, \uc624\ub298\ub3c4 \uc990\uac81\uace0 \ud589\ubcf5\ud55c \ud558\ub8e8 \ub418\uc138\uc694. <break time=\"500ms\"/>\uc800\ub294 \uc5d0\uc774\uc2a4 \uc190\ud574\ubcf4\ud5d8, \uc0bc\uc131\uce74\ub4dc \uc5d0\uc774\uc544\uc774 \uc0c1\ub2f4\uc0ac\uc600\uc2b5\ub2c8\ub2e4.",
+      "fulfillment_text": "",
+      "department_id": "",
+      "staff_id": "",
+      "job_name": "",
+      "call_objective": "",
+      "stt_confidence": "1.0",
+      "intermediate_transcript": [
+        {
+          "time": 1661846054139,
+          "transcript": "\uba54\ub69c\uae30 \ub179\uc74c\uc740"
+        },
+        {
+          "time": 1661846055201,
+          "transcript": "\uc77c"
+        },
+        {
+          "time": 1661846055303,
+          "transcript": "\ubc24"
+        },
+        {
+          "time": 1661846055405,
+          "transcript": "\uc5f0\ub77d"
+        },
+        {
+          "time": 1661846055610,
+          "transcript": "\ubc1b\uc73c \uc2e4 \uc804\ud654\ubc88\ud638\ub97c"
+        },
+        {
+          "time": 1661846055917,
+          "transcript": "\ub0a8\uae30\uc2dc\ub824\uba74"
+        },
+        {
+          "time": 1661846056122,
+          "transcript": "\uc774 \ubc88\ud638"
+        },
+        {
+          "time": 1661846056276,
+          "transcript": "\ub20c\ub7ec \uc8fc\uc2ed\uc2dc\uc624"
+        },
+        {
+          "time": 1661846056394,
+          "transcript": "\uba54\ub69c\uae30 \ub179\uc74c\uc740 \uc77c \ubc24 \uc5f0\ub77d \ubc1b\uc73c \uc2e4 \uc804\ud654\ubc88\ud638\ub97c \ub0a8\uae30\uc2dc\ub824\uba74 \uc774 \ubc88\ud638 \ub20c\ub7ec \uc8fc\uc2ed\uc2dc\uc624"
+        }
+      ],
+      "fulfillment_volume": "",
+      "fulfillment_tempo": "",
+      "fulfillment_pitch": "",
+      "barge_in_enable": true
+    }
+  ]
+}
